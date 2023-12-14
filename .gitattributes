@@ -1,3 +1,4 @@
 .zip filter=lfs diff=lfs merge=lfs -text
 gtFine_trainvaltest.zip filter=lfs diff=lfs merge=lfs -text
 gtFine_trainvaltests.zip filter=lfs diff=lfs merge=lfs -text
+cityscapes_data.zip filter=lfs diff=lfs merge=lfs -text
